@@ -1,0 +1,19 @@
+{
+  "name": "bricole_de_miski_v2",
+  "version": "1.0.0",
+  "description": "bricole_de_miski",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "eymnhmrd",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
